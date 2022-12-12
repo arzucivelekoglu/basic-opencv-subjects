@@ -1,1 +1,1 @@
-# basic-opencv-subjects
+# Basic OpenCV Subjects
